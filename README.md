@@ -4,9 +4,12 @@
 
 🚀 **Software Engineer | ETL Developer | GIS Enthusiast**  
 📍 Rajshahi, Bangladesh  
-📧 **Email:** ruhul.cs.dev@gmail.com  
-🔗 **LinkedIn:** [linkedin.com/in/aminruhulmd](https://www.linkedin.com/in/aminruhulmd)  
-🐙 **GitHub:** [github.com/MohammadRuhulAmin](https://github.com/MohammadRuhulAmin)  
+💻 **GitHub:** [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/MohammadRuhulAmin)  
+💼 **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aminruhulmd)  
+📧 **Email:** [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ruhulamin.cs.dev@gmail.com)  
+💬 **WhatsApp:** [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/8801322352864)  
+🎥 **YouTube:** [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@ruhulshschighermathsolutio5799)  
+
 
 ---
 
@@ -112,8 +115,8 @@ I am a **Software Engineer** with **3+ years of experience** in ETL development,
 ## 🔗 Connect With Me
 
 💻 **GitHub:** [github.com/MohammadRuhulAmin](https://github.com/MohammadRuhulAmin)  
-💼 **LinkedIn:** [linkedin.com/in/aminruhulmd](https://www.linkedin.com/in/aminruhulmd)  
-📧 **Email:** ruhul.cs.dev@gmail.com  
+💼 **LinkedIn:** [linkedin.com/in/aminruhulmd](https://www.linkedin.com/in/ruhul-cs)  
+📧 **Email:** ruhulamin.cs.dev@gmail.com  
 📱 **Phone:** +8801322352864  
 
 ---
